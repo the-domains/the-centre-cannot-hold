@@ -1,4 +1,3 @@
-layout_spectrum: 0.6237250799313188
 typography_spectrum: 0.8719057245180011
 color:
   brandStrength: 0.5730503245722502
@@ -11,4 +10,6 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
+layout_spectrum: 0.6237250799313188
 name: The Centre Cannot Hold
+title: all which isn't singing is talking and all talking's talking to oneself
